@@ -1,5 +1,8 @@
 # EX_MARKDOWN
 
+### 9. 이미지 넣기
+![e클래스 cafe](https://cafe.naver.com/kndjang "e클래스 cafe입니다.")
+
 ### 8. 강조
 **Spring**을 만끽하세요!  
 *Spring*을 만끽하세요!  
