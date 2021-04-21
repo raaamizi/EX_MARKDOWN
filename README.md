@@ -1,7 +1,16 @@
 # EX_MARKDOWN
 
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|:-------|:-------|:-------:|-------:|:-------|:-------:|
+|1      |nanana |나나나 |1|haramlim0215@naver.com| 9:00|
+|2      |nanana |**나나나** |1|haramlim0215@naver.com| 9:00|
+|3      |nanana |나나나 |1|haramlim0215@naver.com| 9:00|
+|4      |nanana |나나나 |1|haramlim0215@naver.com| 9:00|
+|5      |nanana |나나나 |1|haramlim0215@naver.com| 9:00|
+
 ### 9. 이미지 넣기
-![e클래스 cafe](https://cafe.naver.com/kndjang "e클래스 cafe입니다.")
+![e클래스 cafe](https://github.com/raaamizi/EX_MARKDOWN/blob/main/image.png "image 테스트입니다.")
 
 ### 8. 강조
 **Spring**을 만끽하세요!  
