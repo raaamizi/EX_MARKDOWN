@@ -1,7 +1,12 @@
 # EX_MARKDOWN
 
+### 8. 강조
+**Spring**을 만끽하세요!  
+*Spring*을 만끽하세요!  
+
 ### 7. 하이퍼링크
 [e클래스 cafe](https://cafe.naver.com/kndjang "e클래스 cafe입니다.")
+
 
 ### 6. 가로선
 ---
